@@ -1,11 +1,2 @@
-##Intro to GitHub
-
-!testing more stuff
-
-/testing stuff
-## FoxTrot
-
-testing autosave! what
-
-
-woohoo
+#Foxtrot 2022 GitHub
+Howdy this is test number #342
