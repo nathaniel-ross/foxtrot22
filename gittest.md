@@ -1,4 +1,4 @@
-# Intro to GitHub
+##Intro to GitHub
 
 ## FoxTrot
 
